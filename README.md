@@ -42,7 +42,7 @@ ORDER BY
 - Derived **average LTV** to assess per-customer value within each segment.
 
 **Visualization**:  
-![1_Customer_Segmentation](Images\customer_segmentation.png)
+![1_Customer_Segmentation](Images/customer_segmentation.png)
 <br>_Customer Count and Total Lifetime Value by Segment_
 
 **Key Findings**:
@@ -78,7 +78,7 @@ GROUP BY
 - Assessed cohort size growth and revenue generation over time.
 
 **Visualization**:  
-![2_Cohort_Analysis](Images\cohort_totals.png)
+![2_Cohort_Analysis](Images/cohort_totals.png)
 <br>_Cohort Total Customers and Total Revenue by Year_
 
 **Key Findings**:
@@ -128,9 +128,9 @@ FROM cohort_year
 
 #### **Visualization:**
 
-![2_1_Monthly_Total_Rev_Rolling_Avg](Images\total_revenue_trend.png)
+![2_1_Monthly_Total_Rev_Rolling_Avg](Images/total_revenue_trend.png)
 <br> _Monthly Total Revenue and 3 Month Rolling Average_
-![2_2_Monthly_Customer_Trends](Images\revenue_per_customer_vs_rolling_avg.png)
+![2_2_Monthly_Customer_Trends](Images/revenue_per_customer_vs_rolling_avg.png)
 <br> _Monthly Average Revenue Per Customer and 3 Month Rolling Average_
 
 #### **Key Findings:**
@@ -172,7 +172,7 @@ GROUP BY
 
 #### **Visualization**:
 
-![Customer Retention by Cohort](Images\customer_retention_by_cohort.png)<br> _Customer Churn by Cohort Year_
+![Customer Retention by Cohort](Images/customer_retention_by_cohort.png)<br> _Customer Churn by Cohort Year_
 
 #### **Key Findings**:
 
