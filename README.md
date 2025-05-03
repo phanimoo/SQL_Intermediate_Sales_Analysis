@@ -47,7 +47,7 @@ ORDER BY
 
 **Key Findings**:
 
-- **High-Value segment** (12,372 customers) contributes the **highest total LTV** (~$135.6M) and the **highest avg LTV** (~$10.96K).
+- **High-Value segment** (12,372 customers) contributes the **highest total LTV** ($135.6M) and the **highest avg LTV** ($10.96K).
 - **Mid-Value segment** is the **largest by count** (24,743) and drives significant total LTV (~$66.4M), with avg LTV of ~$2.68K.
 - **Low-Value segment** (12,372 customers) shows minimal revenue impact (total LTV ~$4.3M, avg ~$347), indicating low immediate monetization.
 
@@ -85,7 +85,7 @@ GROUP BY
 
 - **Customer base growth until 2019–2022**: Cohorts grew from ~2.8K customers in 2015 to ~9K in 2022, reflecting successful acquisition efforts.
 - **Revenue growth parallels customer growth**: Total revenue scaled from $15.9M in 2015 to $38M+ in 2018–2019 and peaked around $38M again in 2022.
-- **Dip in 2020 due to external factors**: 2020 cohort saw a drop in both customer count (~3.0K) and revenue (~$13M), likely tied to pandemic impacts.
+- **Dip in 2020 due to external factors**: 2020 cohort saw a drop in both customer count (3.0K) and revenue ($13M), likely tied to pandemic impacts.
 - **Recent slowdown**: 2024 (partial) cohort shows lower values, but may be incomplete year-to-date data.
 
 **Business Insights**:
